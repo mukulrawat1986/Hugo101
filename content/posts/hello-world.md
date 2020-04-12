@@ -4,5 +4,4 @@ date: 2020-04-12T20:37:26+05:30
 draft: false
 ---
 
-Hello from the other side.
-
+Quarantined and moving my old blog to hugo and netlify. Hello World.
